@@ -1,8 +1,9 @@
 """
 Analyze GitHub traffic data and visualize top repositories by views and clones.
 
-This script loads traffic data from a JSON file (exported by app.py), extracts view and clone counts for each repository,
-sorts them, and displays bar charts for the top repositories by view and clone counts.
+This script loads traffic data from a JSON file (exported by app.py), extracts view 
+and clone counts for each repository, sorts them, and displays bar charts for the top 
+repositories by view and clone counts.
 
 Usage:
     - Ensure 'LiteObject_traffic_data.json' is present in the same directory.
